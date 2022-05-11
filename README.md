@@ -1,2 +1,2 @@
 # Pong-no-JavaScript
-Jogo do Pontg no JavaScript
+Jogo do Pong no JavaScript
